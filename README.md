@@ -5,7 +5,7 @@ This game runs in the *console/terminal* and is a great beginner-friendly Java p
 
 ---
 
-## 📌 Features
+## 📌 Features.
 ✅ 2-player mode (X and O)  
 ✅ Detects win or draw  
 ✅ Console-based simple UI  
