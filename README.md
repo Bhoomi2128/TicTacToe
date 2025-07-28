@@ -27,5 +27,5 @@ This game runs in the *console/terminal* and is a great beginner-friendly Java p
 ---
 
 ## 📂 Project Links
-🔗 GitHub Code – [https://github.com/Bhoomi2128/TicTacToe](https://github.com/Bhoomi2128/TicTacToe)  
+🔗 GitHub Code – [https://github.com/Bhoomi2128/TicTacToe] 
 🔗 Download Game – https://1drv.ms/u/c/8aa2339124dd36e7/EXz7oIBNdjJBjIiXrhuhElwBIS_y8TXsHQF4GoGZFBjjOw?e=zGHQRc
